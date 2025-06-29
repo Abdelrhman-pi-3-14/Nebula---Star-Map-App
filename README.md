@@ -63,12 +63,12 @@ The constellations are drawn using standard IAU (International Astronomical Unio
 
 <p align="center">
   <img src="screenshots/Screenshot 2025-06-29 225200.png" width="300" alt="Star map view">
-  <img src="screenshots/Screenshot 2025-06-29 225226.png" width="300" alt="Constellation lines">
-  <img src="screenshots/Screenshot 2025-06-29 225241.png" width="300" alt="Labelled constellations">
+  <img src="screenshots/Screenshot 2025-06-29 225226.png" width="300" alt="88 Constellation info list ">
+  <img src="screenshots/Screenshot 2025-06-29 225241.png" width="300" alt="news screen ">
   <img src="screenshots/Screenshot 2025-06-29 225503.png" width="300" alt="Wide sky view">
-  <img src="screenshots/Screenshot 2025-06-29 225540.png" width="300" alt="Zoomed constellation">
-  <img src="screenshots/Screenshot 2025-06-29 225657.png" width="300" alt="Star cluster">
-  <img src="screenshots/Screenshot 2025-06-29 225711.png" width="300" alt="Interactive sky sphere">
+  <img src="screenshots/Screenshot 2025-06-29 225540.png" width="300" alt="orion constellation">
+  <img src="screenshots/Screenshot 2025-06-29 225657.png" width="300" alt="ursa mejour constellation">
+  <img src="screenshots/Screenshot 2025-06-29 225711.png" width="300" alt="Interactive gudie lines">
 </p>
 ---
 
