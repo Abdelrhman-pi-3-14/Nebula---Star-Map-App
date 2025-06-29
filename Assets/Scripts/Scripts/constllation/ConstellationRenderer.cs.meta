@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 784d502d437a3a945be11e455683d306
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - constellationLinesFile: {fileID: 4900000, guid: 2023bd6fcb65d2e4bb89aafd68bf50b6,
+      type: 3}
+  - lineMaterial: {instanceID: 0}
+  - labelFont: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

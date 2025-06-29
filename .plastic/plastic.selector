@@ -1,0 +1,4 @@
+repository "celestia/celestia@11270564495484@cloud"
+  path "/"
+    br "/main"
+    co "/main"

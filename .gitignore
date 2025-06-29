@@ -1,0 +1,46 @@
+# ========== Unity Ignore Rules ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# ========== OS / IDE Specific ==========
+.DS_Store
+*.apk
+*.aab
+*.keystore
+*.pdb
+*.mdb
+*.svd
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.sln
+*.csproj
+*.unityproj
+*.vcxproj
+*.db
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# ========== Gradle (for Android builds) ==========
+.gradle/
+local.properties
+*.iml
+*.log
+
+# ========== Other ==========
+*.swp
+*.tmp
+*.bak
+*.old
+*.orig
